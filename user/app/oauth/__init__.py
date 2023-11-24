@@ -1,0 +1,1 @@
+from app.oauth.v1.controller import oauth_v1
